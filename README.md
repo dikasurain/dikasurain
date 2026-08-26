@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34A8C,5:F871A0,10:F472B6,15:C4B1FF,20:6DD3C0&height=200&section=header&text=Rain&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=%E4%BB%A3%E7%A0%81%E6%98%AF%E8%89%BA%E6%9C%AF%20Bug%E6%98%AF%E6%97%A5%E5%B8%B8&descAlignY=60&descSize=14&animation=fadeIn" width="100%"/>
 
-
 <br />
 
 <table>
@@ -50,7 +49,7 @@
 
 ### 📊 Stats
 
-<a href="https://github.com/Rain?tab=followers"><img src="https://img.shields.io/github/followers/Rain?label=Followers&style=flat-square&color=F871A0&logo=github&logoColor=white" alt="Followers"></a> <a href="https://github.com/Rain?tab=stars"><img src="https://img.shields.io/github/stars/Rain?label=Stars&style=flat-square&color=F472B6&logo=github&logoColor=white" alt="Stars"></a> <a href="https://github.com/Rain?tab=repositories"><img src="https://img.shields.io/github/repo-count/Rain?label=Repos&style=flat-square&color=C4B1FF&logo=github&logoColor=white" alt="Repos"></a> <a href="https://github.com/Rain"><img src="https://img.shields.io/github/last-commit/Rain?label=Last%20Commit&style=flat-square&color=F871A0&logo=git&logoColor=white" alt="Last Commit"></a> <a href="https://github.com/Rain"><img src="https://img.shields.io/github/commits/Rain?label=Commits&style=flat-square&color=F472B6&logo=git&logoColor=white" alt="Commits"></a> <a href="https://github.com/Rain"><img src="https://img.shields.io/github/contributions/Rain?label=Contributions&style=flat-square&color=C4B1FF&logo=github&logoColor=white" alt="Contributions"></a>
+<a href="https://github.com/dikasurain?tab=followers"><img src="https://img.shields.io/github/followers/dikasurain?label=Followers&style=flat-square&color=F871A0&logo=github&logoColor=white" alt="Followers"></a> <a href="https://github.com/dikasurain?tab=stars"><img src="https://img.shields.io/github/stars/dikasurain?label=Stars&style=flat-square&color=F472B6&logo=github&logoColor=white" alt="Stars"></a> <a href="https://github.com/dikasurain?tab=repositories"><img src="https://img.shields.io/github/repo-count/dikasurain?label=Repos&style=flat-square&color=C4B1FF&logo=github&logoColor=white" alt="Repos"></a> <a href="https://github.com/dikasurain"><img src="https://img.shields.io/github/last-commit/dikasurain?label=Last%20Commit&style=flat-square&color=F871A0&logo=git&logoColor=white" alt="Last Commit"></a> <a href="https://github.com/dikasurain"><img src="https://img.shields.io/github/commits/dikasurain?label=Commits&style=flat-square&color=F472B6&logo=git&logoColor=white" alt="Commits"></a> <a href="https://github.com/dikasurain"><img src="https://img.shields.io/github/contributions/dikasurain?label=Contributions&style=flat-square&color=C4B1FF&logo=github&logoColor=white" alt="Contributions"></a>
 
 </td>
 </tr>
@@ -68,7 +67,26 @@
 
 ***
 
-<!-- 樱花园 -->
+### 🐍 贪吃蛇吃 Commits
+
+<div align="center">
+
+<!-- 自动切换明暗主题 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dikasurain/dikasurain/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dikasurain/dikasurain/output/github-snake.svg">
+  <img alt="🐍 贪吃蛇吃 Commits" src="https://raw.githubusercontent.com/dikasurain/dikasurain/output/github-snake.svg" width="95%"/>
+</picture>
+
+<br>
+<i>蛇每天自动更新，吃掉你的每一个 commit 🐍</i>
+
+</div>
+
+***
+
+### 🌸 樱花飘落 🐱
 
 <div align="center">
 
@@ -90,7 +108,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Rain"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a> <a href="mailto:1722728360@qq.com"><img src="https://img.shields.io/badge/Email-1722728360-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/dikasurain"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a> <a href="mailto:1722728360@qq.com"><img src="https://img.shields.io/badge/Email-1722728360-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -103,4 +121,3 @@
 <sub>🐱 樱花加持 · 黑猫监督 · 二次元的灵魂书写 🌸</sub>
 
 </div>
-
