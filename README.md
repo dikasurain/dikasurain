@@ -1,27 +1,32 @@
 <!-- ╔══════════════════════════════════════╗ -->
+
 <!-- ║   ✨ Rain's GitHub Profile ✨          ║ -->
+
 <!-- ╚══════════════════════════════════════╝ -->
 
 <div align="center">
 
 <!-- 头部Banner -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,16,20,22&height=180&section=header&text=Rain's%20Code%20Space&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=%E4%BB%A3%E7%A0%81%E6%98%AF%E8%89%BA%E6%9C%AF%20Bug%E6%98%AF%E6%97%A5%E5%B8%B8&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- 动漫女孩装饰 -->
+
 <img src="https://raw.githubusercontent.com/0x5bfa/Anime-Girls-Holding-Programming-Books/main/docs/assets/git-core.png" width="280" alt="Anime Girl" />
 
 <!-- 标题 -->
+
 <h3>
   🌸 欢迎来到 Rain 的代码空间 🌸
 </h3>
 
 <!-- 一句话介绍 -->
-<i>「代码是艺术，Bug是日常」</i><br/>
-<i>「用键盘敲出整个世界 ✨」</i>
+
+<i>「代码是艺术，Bug是日常」</i> <i>「用键盘敲出整个世界 ✨」</i>
 
 </div>
 
----
+***
 
 ### 🌸 About Me
 
@@ -35,7 +40,7 @@
  ╰──────────────────────────────╯
 ```
 
----
+***
 
 ### ✨ Tech Stack
 
@@ -62,14 +67,14 @@
 
 <div align="center">
 
-![WPF](https://img.shields.io/badge/WPF-💕-4E0078?style=for-the-badge&logo=windows)
-![OpenCV](https://img.shields.io/badge/OpenCV-👁️-5C3EE8?style=for-the-badge&logo=opencv)
-![VTK](https://img.shields.io/badge/VTK-✨-31A4FF?style=for-the-badge&logo=vtk)
+![WPF](https://img.shields.io/badge/WPF-💕-4E0078?style=for-the-badge\&logo=windows)
+![OpenCV](https://img.shields.io/badge/OpenCV-👁️-5C3EE8?style=for-the-badge\&logo=opencv)
+![VTK](https://img.shields.io/badge/VTK-✨-31A4FF?style=for-the-badge\&logo=vtk)
 ![Open3D](https://img.shields.io/badge/Open3D-🌈-9cf?style=for-the-badge)
 
 </div>
 
----
+***
 
 ### 📊 Stats
 
@@ -87,27 +92,27 @@
 
 </div>
 
----
+***
 
 ### 🔥 贡献热力图
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rain&theme=react-dark&hide_border=true&area=true&color=F871A0&line=C4B1FF&point=F472B6&bg_color=0D1117&title_color=F871A0&text_color=C4B1FF&grid_color=1B1B2F" width="95%"/>
+<img src="https://ghchart.rshah.dev/F871A0/Rain" width="95%" alt="Rain's GitHub Chart"/>
 
 </div>
 
----
+***
 
 ### 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rain&theme=gitploy&margin-w=15&margin-h=15&no-bg=true&column=7&title_color=F871A0&text_color=C4B1FF&icon_color=F472B6" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rain&theme=juicyfresh&margin-w=15&margin-h=15&no-bg=true&column=7" width="95%"/>
 
 </div>
 
----
+***
 
 ### 🌐 Links
 
@@ -119,9 +124,10 @@
 
 </div>
 
----
+***
 
 <!-- 底部Banner -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,16,20,22&height=120&section=footer" width="100%"/>
 
 <div align="center">
